@@ -1,0 +1,26 @@
+{
+  "name": "my_games",
+  "version": "1.0.0",
+  "description": "html javascript games ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puliyedath/js_balls.git"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "hareesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puliyedath/js_balls/issues"
+  },
+  "homepage": "https://github.com/Puliyedath/js_balls#readme",
+  "dependencies": {
+    "compression": "^1.5.2",
+    "express": "^4.13.3"
+  }
+}

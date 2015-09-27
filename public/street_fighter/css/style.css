@@ -1,0 +1,46 @@
+/* seems like each spirte is 70px wide and 80px high */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 16pt;
+}
+
+.container{
+    width: 90%;
+    padding: 0 5em;
+}
+
+.character{
+    width:60px;
+    height:110px;
+    display:inline-block;
+    position:absolute;
+    top:120px;
+    left:90px;
+}
+
+#field{
+    background-image: url('../images/background_blanka.gif');
+    width:621px;
+    height:224px;
+    position:relative;
+}
+
+h1, h2{
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+h1{
+    font-size:1.5em;
+}
+body{
+    font-size:1em;
+}
+h2{
+    font-size:1.1em;
+}
